@@ -8,5 +8,3 @@ class Cat
   end
 
 end
-
-maru = Cat.new
