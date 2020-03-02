@@ -1,8 +1,12 @@
 ## code your solution here. 
 class Cat
 
-attr_accessor:name
+  attr_accessor:name
+
+  def meow(maru)
+    puts "meow!"
+  end
 
 end
 
-kitteh.authenticate_or_request_with_http_digest
+maru = Cat.new
