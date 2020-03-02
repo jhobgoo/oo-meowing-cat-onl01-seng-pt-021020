@@ -3,7 +3,7 @@ class Cat
 
   attr_accessor:name
 
-  def meow(maru)
+  def meow(name)
     puts "meow!"
   end
 
